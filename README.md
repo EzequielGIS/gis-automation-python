@@ -4,8 +4,8 @@ Automated geospatial workflows using Python to replace manual GIS processes.
 
 ## Features
 - Vector analysis (buffer and area calculation)
-- Raster processing (NDVI generation)
-- Spatial joins
+- Raster processing (NDVI generation) 🚧 planned
+- Spatial joins 🚧 planned
 
 ## Technologies
 - Python
